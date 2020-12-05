@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,18 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
+
+
+/* 
+<!-- Custom-Files -->
+    <link href="./bundles/css/style-starter.css" rel="stylesheet" type="text/css">
+	 <!-- web fonts -->
+    <link href="//fonts.googleapis.com/css?family=Nunito:400,600,700,800,900&amp;display=swap" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Hind&amp;display=swap" rel="stylesheet">
+    <!-- //web fonts -->
+ */
+
+
+ @import './assets/css/style-starter.css';
+    

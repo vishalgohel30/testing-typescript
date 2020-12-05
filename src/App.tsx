@@ -1,11 +1,13 @@
-import React from 'react';
+import React, { Suspense } from 'react';
 import './App.css';
+import Routes from './Routes/Route';
+
 
 function App() {
   return (
-    <div className="App">
-      vishal gohel this is
-    </div>
+    <Suspense fallback={"Loading..."}>
+      <Routes />
+    </Suspense>
   );
 }
 
